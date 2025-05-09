@@ -1,0 +1,8 @@
+# Ignora a pasta .venv
+.venv/
+
+# Ignora arquivos de sistema e IDEs
+*.log
+*.DS_Store
+.idea/
+.vscode/
